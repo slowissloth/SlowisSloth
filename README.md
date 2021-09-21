@@ -2,17 +2,20 @@
 
 # ▎Personal Info
 - Yunkwang You
+- Dongguk University (DGU)
+- Information & Communication Engineering (ICE) 15
+- 1996yyk@gmail.com
 
-## Github
+# ▎Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNKWANGYOU&layout=compact&theme=vue)
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=YUNKWANGYOU&show_icons=true&count_private=true&line_height=24&theme=vue&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=YUNKWANGYOU&layout=compact&theme=vue)
 
-## BOJ
+# ▎BOJ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996yyk)](https://solved.ac/1996yyk)
 
-## Tech Stack
+# ▎Tech Stack
 High :
 Middle :
 Low :
