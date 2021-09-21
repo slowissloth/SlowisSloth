@@ -1,4 +1,4 @@
-### Yunkwang You GitLog
+### Welcome to Yunkwang You's GitLog !
 
 # ▎Personal Info
 - Yunkwang You
