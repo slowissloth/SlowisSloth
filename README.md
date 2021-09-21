@@ -1,7 +1,7 @@
 ### Yunkwang You GitLog
 
 # ▎Personal Info
-- Choi Deok Gyeong
+- Yunkwang You
 
 ## Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNKWANGYOU&layout=compact&theme=vue)
