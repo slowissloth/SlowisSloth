@@ -25,7 +25,7 @@
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-FFFFFF?style=flat&logo=C&logoColor=black"/></span>
-<span><img src="https://img.shields.io/badge/Cplusplus-4479A1?style=flat&logo=C++&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++-Solutions-blue.svg-4479A1?style=flat&logo=C++&logoColor=white"/></span>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
