@@ -1,6 +1,6 @@
-### Welcome to Yunkwang You's GitLog !
+### 😙 Welcome to Yunkwang You's GitLog ❗❗❗
 
-# ▎Personal Info
+# ▎Personal Info 💁
 - Yunkwang You
 - Dongguk University (DGU)
 - Information & Communication Engineering (ICE) 15
@@ -15,7 +15,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996yyk)](https://solved.ac/1996yyk)
 
-# ▎Tech Stack
+# ▎Tech Stack 🏭
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
@@ -36,10 +36,10 @@
 - AI : <span><img src="https://img.shields.io/badge/Tensorflow-FF8200?style=flat&logo=Tensorflow&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/keras-CD1039?style=flat&logo=keras&logoColor=white"/></span>
 
-# ▎Portfolio
+# ▎Portfolio 📗
 <a href = "https://yunkwangyou.notion.site/Portfolio-90724ab7495f4b64a6db44c496f7ef69">https://yunkwangyou.notion.site/</a>
 
-# ▎Casual Info
+# ▎Casual Info 🙈
 - Hobby : Playing Baskcetball, Watching Soccer, Gaming, Making Coffee, Working Out .
 - I'm looking for a job about Network/Cloud Infra .
 
