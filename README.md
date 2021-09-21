@@ -8,9 +8,9 @@
 
 # 🙏 Welcome To My GitHub!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjcdg1&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hjcdg1&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=hjcdg1&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjcdg1&layout=compact&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hjcdg1&show_icons=true&count_private=true&line_height=24&theme=vue&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=hjcdg1&layout=compact&theme=vue)
 
 # ▎Personal Info
 - Choi Deok Gyeong
