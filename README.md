@@ -36,6 +36,8 @@
 - AI : <span><img src="https://img.shields.io/badge/Tensorflow-FF8200?style=flat&logo=Tensorflow&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/keras-CD1039?style=flat&logo=keras&logoColor=white"/></span>
 
+# ▎Portfolio
+<a href = "https://yunkwangyou.notion.site/Portfolio-90724ab7495f4b64a6db44c496f7ef69">https://yunkwangyou.notion.site/</a>
 <!--
 **YUNKWANGYOU/YUNKWANGYOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
