@@ -6,6 +6,16 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996yyk)](https://solved.ac/1996yyk)
 
+# 🙏 Welcome To My GitHub!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjcdg1&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hjcdg1&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=hjcdg1&layout=compact&theme=dracula)
+
+# ▎Personal Info
+- Choi Deok Gyeong
+
+
 ## Tech Stack
 High :
 Middle :
