@@ -8,7 +8,7 @@
 
 # ▎Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNKWANGYOU&layout=compact&theme=vue)
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=YUNKWANGYOU&show_icons=true&count_private=true&line_height=24&theme=vue&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=YUNKWANGYOU&show_icons=true&count_private=true&&theme=vue&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=YUNKWANGYOU&layout=compact&theme=vue)
 
 # ▎BOJ
