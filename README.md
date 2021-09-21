@@ -24,7 +24,7 @@
 - Back-end :<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C-000000?style=flat&logo=C&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-FFFFFF?style=flat&logo=C&logoColor=black"/></span>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 
