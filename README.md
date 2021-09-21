@@ -20,13 +20,13 @@
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></span>
 - Back-end :<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-000000?style=flat&logo=C&logoColor=white"/></span>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
