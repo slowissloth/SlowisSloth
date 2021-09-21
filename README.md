@@ -28,7 +28,6 @@
 <span><img src="https://img.shields.io/badge/C++-4479A1?style=flat&logo=C++&logoColor=white"/></span>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/centos-4479A1?style=flat&logo=centOS&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 - Communication :<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
