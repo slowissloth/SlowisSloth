@@ -39,6 +39,6 @@
 
 # ▎Casual Info 🙈
 - Hobby : Playing Baskcetball, Watching Soccer, Gaming, Making Coffee, Working Out .
-- I'm looking for a job about Network/Cloud Infra .
+- I'm looking for a job about Network/Cloud Infra.
 
 
