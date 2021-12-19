@@ -13,10 +13,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996yyk)](https://solved.ac/1996yyk)
 # ▎Velog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)](https://github.com/1996yyk)
+The Latest Posting<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)]
 <br>
-Velog 최신 글
+
 <a href = 'https://velog.io/@1996yyk'>https://velog.io/@1996yyk</a>
 # ▎Tech Stack 🏭
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
