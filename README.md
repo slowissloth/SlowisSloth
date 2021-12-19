@@ -14,7 +14,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996yyk)](https://solved.ac/1996yyk)
 # ▎Velog
 The Latest Posting<br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)](https://https://velog.io/@1996yyk)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)](https://velog.io/@1996yyk)
 <br>
 
 <a href = 'https://velog.io/@1996yyk'>https://velog.io/@1996yyk</a>
