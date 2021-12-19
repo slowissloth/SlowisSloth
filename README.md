@@ -14,6 +14,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996yyk)](https://solved.ac/1996yyk)
 # ▎Velog
 <a href = 'https://velog.io/@1996yyk'>https://velog.io/@1996yyk</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
 # ▎Tech Stack 🏭
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
