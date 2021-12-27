@@ -4,7 +4,8 @@
 - Yunkwang You
 - Dongguk University (DGU)
 - Information & Communication Engineering (ICE) 15
-- 1996yyk@gmail.com
+- Network Infra Engineer
+- Contact : 1996yyk@gmail.com
 
 # ▎Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNKWANGYOU&layout=compact&theme=vue)
