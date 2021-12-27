@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=YunKwangYou&fontSize=70)<br><br><br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Yun'sGit&fontSize=70)<br><br><br>
 
 # ▎Personal Info 💁
 - Yunkwang You
