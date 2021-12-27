@@ -1,4 +1,4 @@
-### 😙 Welcome to Yunkwang You's GitLog ❗❗❗
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=�Yun's Github&fontSize=70)<br><br><br>
 
 # ▎Personal Info 💁
 - Yunkwang You
