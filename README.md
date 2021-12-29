@@ -4,7 +4,7 @@
 - Yunkwang You
 - Dongguk University (DGU)
 - Information & Communication Engineering (ICE) 15
-- Network Infra Engineer
+- Network Infra Engineer (SK telecom)
 - Contact : 1996yyk@gmail.com
 
 # ▎Github
