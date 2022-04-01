@@ -6,7 +6,7 @@
 - Information & Communication Engineering (ICE) 15
 - Network Infra Engineer (SK telecom)
 - Contact : 1996yyk@gmail.com
-- 주로  Velog에서 활동합니다. 많이 찾아와주세요 : )
+- 주로  Velog<a href = 'https://velog.io/@1996yyk'></a>에서 활동합니다. 많이 찾아와주세요 : )
 # ▎Velog
 The Latest Posting<br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)](https://velog.io/@1996yyk)
