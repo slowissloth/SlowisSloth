@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&height=250&section=header&text=Yun'sGit&fontSize=70)<br><br><br>
-<p align="center">네트워크 운용에 실효성이 있는 개발을 하겠습니다. </p>
+<p align="center">" 네트워크 운용에 실효성이 있는 개발을 하겠습니다. "</p>
 <br>
 
 # ▎Personal Info 💁
