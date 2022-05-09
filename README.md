@@ -31,6 +31,7 @@ The Latest Posting<br><br>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
 - Deployment :
 <span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/linux-4479A1?style=flat&logo=CentOS&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 - Database : 
