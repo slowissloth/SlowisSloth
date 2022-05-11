@@ -1,8 +1,8 @@
-<p align="center">" 네트워크 운용에 실효성이 있는 개발 "</p>
-<br>
+
 
 # ▎Personal Info 💁
-- Network Infra Engineer (SK telecom)
+- Core Infra Network Engineer (SK telecom)
+- Network Operation에 실효성이 있는 개발을 지향합니다.
 - 주로  <a href = 'https://velog.io/@1996yyk'>Velog</a>에서 활동합니다. 많이 찾아와주세요 : )
 # ▎Velog
 The Latest Posting<br><br>
