@@ -22,7 +22,7 @@ The Latest Posting<br><br>
 <span><img src="https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CentOS-4479A1?style=flat&logo=CentOS&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-121212?style=flat&logo=github&logoColor=white"/></span>
 - Database : 
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></span>
 
