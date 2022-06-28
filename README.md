@@ -17,7 +17,8 @@ The Latest Posting<br><br>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 - Back-end :<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
-- Deployment :
+- Server :
+<span><img src="https://img.shields.io/badge/Shell?style=flat&logo=linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CentOS-4479A1?style=flat&logo=CentOS&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
