@@ -1,8 +1,5 @@
-<div align='center'>
-  
 # Goal 🔔
-양수겸장
-</div>
+- 양수겸장
 
 # Personal Info 💁
 - Core Infra Network Engineer (SK telecom)
