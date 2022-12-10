@@ -1,10 +1,12 @@
-
+<div align='center'>
 
 # Personal Info 💁
 - Core Infra Network Engineer (SK telecom)
 - Network Operation에 실효성이 있는 개발을 지향합니다.
 - 주로  <a href = 'https://velog.io/@1996yyk'>Velog</a>에서 활동합니다. 많이 찾아와주세요 : )
 
+</div>
+  
 # Velog
 The Latest Posting<br><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)](https://velog.io/@1996yyk)
