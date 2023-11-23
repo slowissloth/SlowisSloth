@@ -19,8 +19,11 @@ The Latest Posting<br><br>
 <span><img src="https://img.shields.io/badge/Python API-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask API-000000?style=flat&logo=Flask&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Shell-181717?style=flat&logo=linux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Ubuntu-FCC624?style=flat&logo=linux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CentOS-4479A1?style=flat&logo=CentOS&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/k8s-0000ff?style=flat&logo=Kubernetes&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/OpenShift-ff0000?style=flat&logo=openshift&logoColor=white"/></span>
+
+
 - Database : 
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></span>
 
