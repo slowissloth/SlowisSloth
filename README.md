@@ -22,6 +22,7 @@ The Latest Posting<br><br>
 <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/k8s-0000ff?style=flat&logo=Kubernetes&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/OpenShift-ff0000?style=flat&logo=redhat&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/AWS-181717?style=flat&logo=aws&logoColor=white"/></span>
 
 
 - Database : 
