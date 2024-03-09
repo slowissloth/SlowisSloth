@@ -1,5 +1,5 @@
 # Goal 🔔
-- 양수겸장(兩手兼將)
+- 누군가에게 제 생각이 명료히 표현될 방법에 대해 항상 고민합니다.
 
 # Personal Info 💁
 - Core Infra Network Engineer (SK telecom)
