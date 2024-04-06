@@ -32,8 +32,8 @@ The Latest Posting<br><br>
 <span><img src="https://img.shields.io/badge/Git-8B008B?style=flat&logo=git&logoColor=white"/></span>
 
 # Certificated 👨‍🎓
-<span><img src="https://img.shields.io/badge/k8s-0000ff?style=flat&logo=K8S CKA&logoColor=white"/></span> : Certified Kubernetes Administrator - Linux Foundation <2024.03.31 ~ 2027.03.30><br>
-<span><img src="https://img.shields.io/badge/AWS-181717?style=flat&logo=AWS SAA&logoColor=white"/></span> : AWS Solution Architect Associate - AWS <2023.02.11 ~ 2026.02.11>
+<span><img src="https://img.shields.io/badge/K8S-0000ff?style=flat&logo=Kubernetes CKA&logoColor=white"/></span> : Certified Kubernetes Administrator - Linux Foundation <2024.03.31 ~ 2027.03.30><br>
+<span><img src="https://img.shields.io/badge/AWS-181717?style=flat&logo=amazon SAA&logoColor=white"/></span> : AWS Solution Architect Associate - AWS <2023.02.11 ~ 2026.02.11>
 
 # Portfolio 📗 (~22.1 Not Updated)
 <a href = "https://yunkwangyou.notion.site/Yunkwang-You-56469f6d83484e328c1f760545756957">https://yunkwangyou.notion.site/Yunkwang-You-56469f6d83484e328c1f760545756957</a>
