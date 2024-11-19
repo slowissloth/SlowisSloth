@@ -1,17 +1,6 @@
-# Goal 🔔
-- 한 마디 말로 제 생각이 명료히 표현될 방법에 대해 고민합니다.
-
 # Personal Info 💁
 - Core Infra Engineer (SK telecom)
 - Infra Engineering & Operation에 실효성이 있는 개발을 지향합니다.
-- 주로  <a href = 'https://velog.io/@1996yyk'>Velog</a>에서 활동합니다. 많이 찾아와주세요 : )
-
-  
-# Velog
-The Latest Posting<br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1996yyk)](https://velog.io/@1996yyk)
-<br>
-
 
 # Tech Stack 🏭
 - Network : I'm learning 4G EPC / 5G NSA GateWay for Mobile Telecomunication
@@ -34,6 +23,3 @@ The Latest Posting<br><br>
 # Certificated 👨‍🎓
 <span><img src="https://img.shields.io/badge/k8s-0000ff?style=flat&logo=Kubernetes&logoColor=white"/></span> : Certified Kubernetes Administrator - Linux Foundation <2024.03.31 ~ 2027.03.30><br>
 <span><img src="https://img.shields.io/badge/AWS-181717?style=flat&logo=amazon&logoColor=white"/></span> : AWS Solution Architect Associate - AWS <2023.02.11 ~ 2026.02.11>
-
-# Portfolio 📗 (~22.1 Not Updated)
-<a href = "https://yunkwangyou.notion.site/Yunkwang-You-56469f6d83484e328c1f760545756957">https://yunkwangyou.notion.site/Yunkwang-You-56469f6d83484e328c1f760545756957</a>
