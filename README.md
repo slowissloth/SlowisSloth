@@ -1,9 +1,9 @@
 # Personal Info 💁
-- Core Infra Engineer (SK telecom)
+- Infra Engineer (SK telecom)
 - Infra Engineering & Operation에 실효성이 있는 개발을 지향합니다.
 
 # Tech Stack 🏭
-- Network : I'm learning 4G EPC / 5G NSA GateWay for Mobile Telecomunication
+- Information Technology : I'm learning 4G EPC / 5G NSA GateWay for Mobile Telecomunication
 - Server :
 <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/k8s-0000ff?style=flat&logo=Kubernetes&logoColor=white"/></span>
